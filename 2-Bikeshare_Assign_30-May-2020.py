@@ -96,6 +96,7 @@ def load_data(city, month, day):
 
     return df
 
+print load_data
 
 def common_month(df):
     df['month'] = df['Start Time'].dt.month_name()
