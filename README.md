@@ -1,21 +1,11 @@
-### Date created
-Include the date you created this project and README file.
+25-June-2020
 
-### Project Title
-Replace the Project Title
+Bikeshare python project
 
-### Description
-Describe what your project is about and what it does
+This project Uses Python to understand U.S. bikeshare data. Calculate statistics and build an interactive environment where a user chooses and filter for a dataset to analyze.
 
-### Files used
-Include the files used
+Files
+chicago.csv
+new_york_city.csv
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
-## the project is added and uploaded on github.
-
-## change 1 in file readme
-
-## change 2 in file readme
 
